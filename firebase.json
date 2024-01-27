@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "dist/ytms-cli",
     "ignore": [
       "firebase.json",
       "**/.*",
